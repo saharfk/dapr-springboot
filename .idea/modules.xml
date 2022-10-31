@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/http/checkout/CheckoutService.iml" filepath="$PROJECT_DIR$/http/checkout/CheckoutService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http/order-processor/OrderProcessingService.iml" filepath="$PROJECT_DIR$/http/order-processor/OrderProcessingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
